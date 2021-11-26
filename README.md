@@ -6,10 +6,8 @@
 </center>
 
 <p align="center">
-<a href="https://github.com/Rdimo/Hazard-Nuker#installation">Installation</a> |
-<a href="https://github.com/Rdimo/Hazard-Nuker#Important">Important</a> |
-<a href="https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md">Changelogs</a> |
-<a href="https://rdimo.github.io/CheatAway/">Discord</a>
+<a href="https://github.com/WolfHex/OpenDisco#Installation">Installation</a> |
+<a href="">Discord</a>
 </p>
 
 #### OpenDisco by
