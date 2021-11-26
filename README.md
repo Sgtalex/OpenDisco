@@ -12,9 +12,8 @@
 
 #What is OpenDisco
 
-## OpenDisco è un Discord Multitool per tutti i tipi di utilizzi.
-
-###                                                          ⚠️ALPHA VERSION⚠️
+## OpenDisco is a Discord Multitool for all kinds of uses.     ⚠️ALPHA VERSION⚠️
+                                                       
 
 #### OpenDisco by
 MrCane ❌
