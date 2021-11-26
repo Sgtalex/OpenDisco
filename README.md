@@ -1,5 +1,6 @@
+<center>
 <p align= center</p><a href="https://github.com/WolfHex/OpenDisco" target="_blank"><img src="https://cdn.discordapp.com/attachments/911561579219279896/913891856759291954/a.png" alt="HazardNuker"></a>
-
+</center>
 
 <p align="center">
 <a href="https://github.com/Rdimo/Hazard-Nuker#installation">Installation</a> |
