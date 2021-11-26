@@ -1,11 +1,8 @@
 <center>
 <p align= center</p><a href="https://github.com/WolfHex/OpenDisco" target="_blank"><img src="https://cdn.discordapp.com/attachments/911561579219279896/913891856759291954/a.png" alt="HazardNuker"></a>
- ## ░█████╗░░░░░█████╗░░░░░░███╗░░
- ## ██╔══██╗░░░██╔══██╗░░░░████║░░
- ## ██║░░██║░░░██║░░██║░░░██╔██║░░
- ## ██║░░██║░░░██║░░██║░░░╚═╝██║░░
- ## ╚█████╔╝██╗╚█████╔╝██╗███████╗
- ## ░╚════╝░╚═╝░╚════╝░╚═╝╚══════╝
+ 
+ ## Version: Pre-Release Alpha 0.0.1
+
 </center>
 
 <p align="center">
