@@ -1,5 +1,5 @@
 <center>
-<p align= center</p><a href="https://github.com/WolfHex/OpenDisco" target="_blank"><img src="https://cdn.discordapp.com/attachments/911561579219279896/913891856759291954/a.png" alt="HazardNuker"></a>
+<p align= center</p><a href="https://github.com/WolfHex/OpenDisco" target="_blank"><img src="https://cdn.discordapp.com/attachments/901180127868768306/913905113964376115/logo.png" alt="opendisc"></a>
  
                                                      ### Version: Pre-Release Alpha 0.0.1
 
