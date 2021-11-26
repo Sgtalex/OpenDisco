@@ -10,6 +10,12 @@
 <a href="">Discord</a>
 </p>
 
+#What is OpenDisco
+
+## OpenDisco è un Discord Multitool per tutti i tipi di utilizzi.
+
+###                                                          ⚠️ALPHA VERSION⚠️
+
 #### OpenDisco by
 MrCane ❌
 WolfHex ✅
