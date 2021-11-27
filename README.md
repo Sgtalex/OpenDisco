@@ -1,7 +1,7 @@
 <center>
 <p align= center</p><a href="https://github.com/WolfHex/OpenDisco" target="_blank"><img src="https://cdn.discordapp.com/attachments/901180127868768306/913905113964376115/logo.png" alt="opendisc"></a>
  
-                                                     ### Version: Pre-Release Alpha 0.0.1
+                                               ### Version: Pre-Release Alpha 0.0.1
 
 </center>
 
