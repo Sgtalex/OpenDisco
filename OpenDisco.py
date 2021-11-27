@@ -50,7 +50,27 @@ try:
     import bs4
 except:
     os.system("py -3 -m pip install bs4")
+
+try:
+    import requests
+except:
+    os.system("py -3 -m pip install requests")
+
+try:
+   import win32api
+except:
+    os.system("py -3 -m pip install pypiwin32")
+
+try:
+   import PIL
+except:
+    os.system("py -3 -m pip install pillow")
  
+__author__ = 'WolfHex'
+__program__ = 'OpenDisco'
+__package__ = ''
+__description__ = '''AutoUpdate'''
+__version__ = '0.0.1'
 
 
 import time
@@ -60,10 +80,19 @@ from colorama import Fore, Style, init
 from discord.ext import commands
 import threading
 import discord
+import requests
+
+
 
 system("title " + "OpenDisco")
 
 init()
+
+
+
+
+
+
 
 print('')
 print('')
@@ -96,9 +125,9 @@ print(Fore.RED + '                                                              
 
 print(Fore.YELLOW+"""
 ╔═════════════════════════╦══════════════════════════╗
-║ 1.Account-Generator     ║  Nothing                 ║   
-║ 2.Token-Bruteforce      ║  Nothing                 ║       
-║ 3.Discord-Nuker         ║  Nothing                 ║
+║ 1.Account-Generator     ║  8.Discord-InviterToken  ║   
+║ 2.Token-Bruteforce      ║  9.Discord-Token-Login   ║       
+║ 3.Discord-Nuker         ║  10.Webhook-Spam         ║
 ║ 4.Proxy-Generator       ║  Nothing                 ║
 ║ 5.Discord-Token-Nuke    ║  Nothing                 ║
 ║ 6.Account-Nuker         ║  Nothing                 ║
@@ -131,14 +160,14 @@ elif command == '7':
     os.system('cmd /k "py -3 data/nitrogencheck/ngc.py')
 
 elif command == '8':
-    os.system('cmd /k ""')
+    os.system('cmd /k "py -3 data/inviter/invite.py"')
 
 elif command == '9':
-    os.system('cmd /k ""')
+    os.system('cmd /k "py -3 data/login/logger.py"')
 
 
 elif command == '10':
-    os.system('cmd /k ""')
+    os.system('cmd /k "data/webhookspam/webhook.py"')
 
 elif command == '11':
     os.system('cmd /k ""')
